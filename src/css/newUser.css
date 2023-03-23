@@ -1,0 +1,29 @@
+.new-post h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+form {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.buttonForm {
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.inputForm {
+  margin: 15px 15px 0 15px;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+.labelForm {
+  color: #aa4a44;
+  font-weight: bold;
+}

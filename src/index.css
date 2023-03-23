@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Noto Serif;
+}
+
+body {
+  background-image: url("https://twsolutions.com.br/SEO-img/informacoes/servico-telefonia-digital-01.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #000;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0 10px 0;
+}
+
+li {
+  max-width: 200px;
+  word-wrap: break-word;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  opacity: 0.7;
+  transition: 0.3s;
+}
+
+a:hover {
+  opacity: 1;
+}
+
+p {
+  color: #534c4c;
+}
+
+.tableCell {
+  font-weight: bold !important;
+}
+
+.btnDelete {
+  background-color: transparent;
+  color: red;
+  font-size: 14px;
+  display: flex;
+  border: none;
+  cursor: pointer;
+}
+
+.btnEdit {
+  background-color: transparent;
+  font-size: 14px;
+  display: flex;
+  border: none;
+  cursor: pointer;
+}
